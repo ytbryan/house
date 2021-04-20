@@ -1,0 +1,2 @@
+ip addr show #show ip address
+cat /etc/os-release
