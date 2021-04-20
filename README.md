@@ -1,17 +1,10 @@
-Added additional txt to README.md
+# This is the first collaborative "project" done by the TP SGUS Cloud Support & DevOps students of the 1st Cohort.
 
-Hi, please help to verify my git pull, add, commit, push concept.... Thanks.
+# The main goal is to learn and to understand the basic functions of Git and the usage of Github by making changes to the original git repo, commit to the changes and pushing it into the remote Github server.
 
-Why we need to git pull, git add, git commit, git push?
-git pull - to start a BGR - u need to sian char bor. So u need to make yourself attractive so as to "pull" the girls to you.
-git add - Also known as staging. Cos when in a BGR, there will be a lot of drama....
+# The theme of this project is 'house'. Thus, please make changes in accordance to the theme.
 
-git commit - When u plan to commit, need to go ROM and say,"I do". But better think carefully cos this will be official.
+# This introductory/experimental "project" is initiated by our instructor Bryan Lim (ytbryan).
 
-After commit, it's very troublesome to "I undo".
+# Perhaps it could be of good use, in some ways, for the next cohorts to come.
 
-git push - Announce and update your latest marriage status.
-
-Good luck ....
-
-Don't anyhow commit...Contributed by Alex , and added by Timothy (aka Huskypower)
