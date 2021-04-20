@@ -8,3 +8,4 @@
 
 # Perhaps it could be of good use, in some ways, for the next cohorts to come.
 
+# Last but not least, hang in there and enjoy!
