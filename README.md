@@ -1,3 +1,18 @@
+# House 🏠
+
+House is a testing git repository for beginners to learn more about git. Try placing something in the house. You are welcome 🙆‍♂️.
+
+# Todo
+
+1. tidy things up
+2. Add a bot to auto approve pull requests
+
+# License
+
+MIT 
+# Contact
+ytbryan@hey.com
+
 # This is the first collaborative "project" done by the TP SGUS Cloud Support & DevOps students of the 1st Cohort.
 
 # The main goal is to learn and to understand the basic functions of Git and the usage of Github by making changes to the original git repo, commit to the changes and pushing it into the remote Github server.
