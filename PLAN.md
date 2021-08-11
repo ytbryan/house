@@ -6,3 +6,4 @@
     - [ ] Room2
 - [ ] Kitchen
 - [ ] Garage
+what is the plan?
