@@ -1,11 +1,21 @@
 # House 🏠
 
-House is a testing git repository for beginners to learn more about git. Try placing something in the house. You are welcome 🙆‍♂️.
+House is a testing git repository for (non-tech) beginners to learn more about git. Try placing something in the house. You are welcome 🙆‍♂️.
+
+There are other houses at [gitlab](https://gitlab.com/ytbryan/house) and [bitbucket](https://bitbucket.org/ytbryan/house). Try them out too. 
+
+
+# Challenge
+1. Check out all three git repos and try placing an item
+2. Remove any items that don't fit the theme 
+3. Go deeper. Rewrite the content of each file. 
+4. Star this repo! Thanks!
 
 # Todo
 
 1. tidy things up
 2. Add a bot to auto approve pull requests
+3. 
 
 # License
 
