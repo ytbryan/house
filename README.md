@@ -12,7 +12,7 @@ There are other houses at [gitlab](https://gitlab.com/ytbryan/house) and [bitbuc
 4. Read [top 10 git commands](https://dev.to/hibaeldursi/top-10-git-commands-i-use-daily-1dpa) and try out any of the git command. 
 5. ⭐️ Star this repo! Thanks!
 6. Check out these git cheatsheets (here)[https://github.com/ytbryan/devops-resources/blob/main/README.md#cheatsheet]
-
+7. Clone this repo using some gui tools like [Github Desktop](https://desktop.github.com), [sourcetree](http://sourcetreeapp.com/)
 
 # Todo
 
@@ -27,4 +27,4 @@ MIT
 # Contact
 
 ytbryan@hey.com
-Say hello -> [@ytbryan](http://twitter.com/ytbryan)
+[@ytbryan](http://twitter.com/ytbryan)
