@@ -1,1 +1,1 @@
-![hariraya](images/hariraya.gif)
+![hariraya](images/raya.gif)
