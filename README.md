@@ -19,6 +19,7 @@ There are other houses at [gitlab](https://gitlab.com/ytbryan/house) and [bitbuc
 1. tidy things up
 2. ~Add a bot to auto approve pull requests~
 3. Add more automation to this repository.
+4. Add a script to randomly clear things on this repo
 
 # License
 
